@@ -1,5 +1,3 @@
-Got it! I’ll keep the structure and content of your `README.md` intact but fix the **Installation** section to remove any bugs or inconsistencies. Here's the corrected version:
-
 ```markdown
 ## Drone Flight Prediction
 
@@ -90,5 +88,3 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 1. Copy the entire content above.
 2. Paste it into your `README.md` file on GitHub.
 3. Commit the changes.
-
-This version should now work without any bugs or issues. Let me know if you need further adjustments! 🚀
