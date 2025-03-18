@@ -1,13 +1,12 @@
-```markdown
-## Drone Flight Prediction
+# Flight Time Prediction Model
 
-This is a drone flight time prediction model using synthetic data, trained with Linear Regression, Random Forest, and Gradient Boosting, and hyperparameter tuning for performance analysis. It helps predict the time for a flight of a drone given various data about its components.
-
+This project predicts the flight time of a drone based on key design parameters using machine learning.
 
 ## Table of Contents
 - [Introduction](#introduction)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Folder Structure](#folder-structure)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -18,9 +17,6 @@ The goal of this project is to predict the flight time of a drone using machine 
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/your-repo.git
-   cd your-repo
-   ```
-
 2. Install the dependencies:
    ```bash
    pip install -r requirements.txt
