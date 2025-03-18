@@ -1,13 +1,10 @@
 Got it! I’ll keep the structure and content of your `README.md` intact but fix the **Installation** section to remove any bugs or inconsistencies. Here's the corrected version:
 
----
-
 ```markdown
-# Drone Flight Prediction
+## Drone Flight Prediction
 
 This is a drone flight time prediction model using synthetic data, trained with Linear Regression, Random Forest, and Gradient Boosting, and hyperparameter tuning for performance analysis. It helps predict the time for a flight of a drone given various data about its components.
 
----
 
 ## Table of Contents
 - [Introduction](#introduction)
