@@ -6,7 +6,6 @@ This project predicts the flight time of a drone based on key design parameters 
 - [Introduction](#introduction)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Folder Structure](#folder-structure)
 - [Contributing](#contributing)
 - [License](#license)
 
