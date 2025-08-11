@@ -15,7 +15,7 @@ The goal of this project is to predict the flight time of a drone using machine 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone [https://github.com/ShayaanRK/Drone_Flight_Prediction.git](https://github.com/ShayaanRK/Drone_Flight_Prediction)
 2. Install the dependencies:
    ```bash
    pip install -r requirements.txt
